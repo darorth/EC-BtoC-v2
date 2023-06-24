@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{277A47BE-2CC7-40D6-A1F1-E8D174FC357C}|http">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DigitalInventoryV2/Program.cs">
+    <Files>
+      <File FileName="DigitalInventoryV2/Controllers/ProductController.cs" Line="20" Column="32" />
+      <File FileName="DigitalInventoryV2/Program.cs" Line="55" Column="11" />
+      <File FileName="DigitalInventoryV2/Models/Product.cs" />
+      <File FileName="DigitalInventoryV2/Models/BaseEntity.cs" Line="7" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="DigitalInventoryV2" expanded="True">
+            <Node name="DigitalInventoryV2" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.DigitalInventoryV2 PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
